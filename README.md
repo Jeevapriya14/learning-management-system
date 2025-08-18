@@ -100,10 +100,10 @@ A modular, responsive LMS frontend demonstrating **RBAC**, **role-tailored dashb
 
 **Follow these steps to set up and run the project locally:**
 
-### 1. Clone the repository
+### 1. Navigate to project directory
 ```bash
-git clone https://github.com/your-username/lms-role-based-dashboard.git
-cd lms-role-based-dashboard
+
+cd directory
 ```
 ### 2. Install dependencies
 ```bash
