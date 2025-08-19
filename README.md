@@ -11,8 +11,8 @@ A modular, responsive LMS frontend demonstrating **RBAC**, **role-tailored dashb
 ---
 
 ## Demo
-- **Live**: _add Netlify/Vercel URL here_  
-- **Repository**: _add GitHub URL here_
+- **Live**:https://lms-rbac.vercel.app/  
+
 
 ---
 
