@@ -18,10 +18,10 @@ A modular, responsive LMS frontend demonstrating **RBAC**, **role-tailored dashb
 
 ## Tech Stack
 - **Framework:** React (Vite)  
-- **Charts:** Recharts / Chart.js (update if different)  
-- **UI Library:** (Material UI / Ant Design / Tailwind, update as per your project)  
+- **Charts:** Chart.js 
+- **UI Library:** Tailwind,  
 - **State/Context:** React Context API (`ThemeContext`) + local storage for session role  
-- **Tooling:** ESLint + Prettier (optional)  
+
 
 ---
 
